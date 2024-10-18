@@ -9,18 +9,23 @@
 ### Dozent
 * Ruben Nuredini
 
-## Abstract
-Topic Modeling with the Latent Dirichlet Allocation Method on a big News_Category_Dataset and comparing the performance and results of the regular method with an improved approach called LDAPrototype.
+## Setup
+The Main work is seperated and developed in the following Notebooks:
+1. [Simple LDA](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Simple_LDA.ipynb)
+2. [Improved LDA](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Improved_LDA.ipynb)
+3. [Benchmarks & Visualizations](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Benchmarks%26Visualizations.ipynb)
+
+Just Clone the Repo and run the Notebooks, thats it.
+
 
 # Inhaltsverzeichnis
 - [Theoretische Grundlagen](#theoretische-grundlagen)
-- [Datenvorbereitung](#Datenvorbereitung)
-- [LDA Modell](#step-4-das-lda-model-trainieren)
-- [PyLDAvis](#step-4-visualisierung-mit-pyldavis)
+- [Simple LDA](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Simple_LDA.ipynb) (Separates Notebook)
 - [Improved LDA](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Improved_LDA.ipynb) (Separates Notebook)
 - [Benchmarks & Visualizations](https://github.com/NiklasElsaesser/bug-free-fishstick/blob/main/Benchmarks%26Visualizations.ipynb) (Separates Notebook)
 - [Literaturverzeichnis](#literaturverzeichnis)
-- 
+
+
 # Theoretische Grundlagen
 Durch die Digitalisierung steigt die Anzahl digitaler Texte drastisch an, sodass diese kaum noch manuell zu erfassen sind. So beheimatet zum Beispiel das Deutsche Textarchiv (digitale Textsammlung) um die 145 Millionen Texte.
 Diese Masse an Texten muss verwaltet werden, um Texte zu finden und abzubilden. Des Weiteren müssen sie von Computern ausgewertet werden können, da dies manuell nicht machbar ist.
