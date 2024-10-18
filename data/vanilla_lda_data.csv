@@ -1,2 +1,2 @@
-Run,lda_model_train_time_in_m,lda_model_coherence_score
-1,5.700009747346242,0.2474312675884771
+Run,Duration (minutes),Coherence Score
+1,50.23810725212097,0.24897375347328105
