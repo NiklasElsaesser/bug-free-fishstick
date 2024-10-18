@@ -1,5 +1,7 @@
 # Assignment im Kurs Machine Learning Fundamentals
 
+**ARCHIVED**
+
 ### Projekt Teilnehmer
 * Anna Stöhrer da Silva
 * Bernice Fabich
